@@ -2,7 +2,7 @@
 This repo contains the source code to reproduce the experiments from the RecSys'20 paper *"Exploiting Performance Estimates for Augmenting RecommendationEnsembles"*. We propose a simple approach to calculate features to substitute peformance predictors. They are called Performance Estimates (PE) and are the historical error of base recommenders for each user. We use them together with base recommender scores in different ensembles to test our research questions.
 
 <p align="center">
-<img src="./img/diagram_pe.PNG" align="center">
+<img src="./img/diagram_pe.PNG" align="center" width="50%">
 </p>
 
 ## Setup
