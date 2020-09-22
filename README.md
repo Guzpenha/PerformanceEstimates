@@ -49,3 +49,23 @@ done
 ```
 
 For running the pipeline with other datasets the steps are the same: download them, add to ./data and run experiment2/run_experiment.sh.
+
+Reference
+```
+@inproceedings{10.1145/3383313.3412264,
+	author = {Penha, Gustavo and Santos, Rodrygo L. T.},
+	title = {Exploiting Performance Estimates for Augmenting Recommendation Ensembles},
+	year = {2020},
+	isbn = {9781450375832},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3383313.3412264},
+	doi = {10.1145/3383313.3412264},
+	booktitle = {Fourteenth ACM Conference on Recommender Systems},
+	pages = {111–119},
+	numpages = {9},
+	keywords = {Performance Prediction, Recommender Systems, Ensembling, Learning to Rank, Performance Estimation},
+	location = {Virtual Event, Brazil},
+	series = {RecSys '20}
+}
+```
